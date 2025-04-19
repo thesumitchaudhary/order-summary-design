@@ -49,6 +49,8 @@
   body {
     font-family: "Red Hat Display", sans-serif;
     font-weight: 500;
+    background: linear-gradient(  rgb(214 225 255),
+    rgb(224 232 255));
   }
 }
 
